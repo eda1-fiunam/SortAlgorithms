@@ -76,6 +76,6 @@ int main()
 
 	print( list, NUM_ELEMS, "Después: " );
 
-   //printf( "Se realizaron %ld comparaciones.\n", g_comparaciones );
+   //printf( "Realicé %ld comparaciones.\n", g_comparaciones );
 
 }
